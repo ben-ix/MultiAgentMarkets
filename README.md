@@ -6,7 +6,7 @@ A version of this work was presented at the Summer Institute on Bounded Rational
 
 ## Multi-agent Market Games
 
-This work follows along two key works. The [quantal hierarchy model of reasoning](https://arxiv.org/abs/2106.15844), and the [BRATS approach to market modelling](https://arxiv.org/abs/2206.05568).
+This work follows along two key works. The [Quantal Hierarchy model of reasoning](https://arxiv.org/abs/2106.15844), and the [BRATS approach to market modelling](https://arxiv.org/abs/2206.05568).
 
 ### How to run
 
